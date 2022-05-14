@@ -1,0 +1,19 @@
+[19-Sep-2014 07:04:43] PHP Fatal error:  Call to undefined function  date_diff() in /home/lokasco/public_html/orangestreet/application/views/campaign/viewCampaign.php on line 227
+[19-Sep-2014 07:06:45] PHP Fatal error:  Call to undefined function  date_diff() in /home/lokasco/public_html/orangestreet/application/views/campaign/viewCampaign.php on line 228
+[19-Sep-2014 08:21:40] PHP Fatal error:  Call to undefined function  date_diff() in /home/lokasco/public_html/orangestreet/application/controllers/home.php on line 71
+[19-Sep-2014 08:22:08] PHP Fatal error:  Call to undefined function  date_diff() in /home/lokasco/public_html/orangestreet/application/controllers/home.php on line 71
+[19-Sep-2014 08:26:11] PHP Fatal error:  Call to undefined function  date_diff() in /home/lokasco/public_html/orangestreet/application/controllers/home.php on line 71
+[19-Sep-2014 08:27:53] PHP Fatal error:  Call to undefined function  date_diff() in /home/lokasco/public_html/orangestreet/application/controllers/home.php on line 70
+[19-Sep-2014 08:33:30] PHP Fatal error:  Call to a member function format() on a non-object in /home/lokasco/public_html/orangestreet/application/controllers/home.php on line 85
+[19-Sep-2014 08:35:20] PHP Fatal error:  Call to a member function format() on a non-object in /home/lokasco/public_html/orangestreet/application/controllers/home.php on line 85
+[19-Sep-2014 08:46:32] PHP Fatal error:  Call to undefined function  date_diff() in /home/lokasco/public_html/orangestreet/application/views/popupview.php on line 65
+[16-Feb-2018 01:36:59 America/Chicago] PHP Fatal error:  Call to a member function select() on boolean in /home/tankerfoundation/public_html/crowdfund/application/models/home_model.php on line 51
+[16-Feb-2018 01:37:01 America/Chicago] PHP Fatal error:  Call to a member function select() on boolean in /home/tankerfoundation/public_html/crowdfund/application/models/home_model.php on line 51
+[16-Feb-2018 13:16:09 Asia/Calcutta] PHP Fatal error:  Call to a member function insert_string() on null in /home/tankerfoundation/public_html/crowdfund/application/models/donate_model.php on line 109
+[16-Feb-2018 13:17:42 Asia/Calcutta] PHP Fatal error:  Call to a member function insert_string() on null in /home/tankerfoundation/public_html/crowdfund/application/models/donate_model.php on line 110
+[16-Feb-2018 14:56:54 Asia/Calcutta] PHP Fatal error:  Call to a member function insert_string() on null in /home/tankerfoundation/public_html/crowdfund/application/models/donate_model.php on line 109
+[16-Feb-2018 15:11:48 Asia/Calcutta] PHP Fatal error:  Call to a member function insert_string() on null in /home/tankerfoundation/public_html/crowdfund/application/models/donate_model.php on line 109
+[16-Feb-2018 15:12:19 Asia/Calcutta] PHP Fatal error:  Call to a member function insert_string() on null in /home/tankerfoundation/public_html/crowdfund/application/models/donate_model.php on line 109
+[16-Feb-2018 15:16:01 Asia/Calcutta] PHP Fatal error:  Call to a member function insert_string() on null in /home/tankerfoundation/public_html/crowdfund/application/models/donate_model.php on line 109
+[16-Feb-2018 15:16:23 Asia/Calcutta] PHP Fatal error:  Call to a member function insert_string() on null in /home/tankerfoundation/public_html/crowdfund/application/models/donate_model.php on line 109
+[16-Feb-2018 15:35:18 Asia/Calcutta] PHP Fatal error:  Call to a member function insert_string() on null in /home/tankerfoundation/public_html/crowdfund/application/models/donate_model.php on line 109
