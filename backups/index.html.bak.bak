@@ -1,0 +1,2510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>TANKER - Tamilnadu Kidney Research Foundation</title>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Raleway:500,600,800,700,900,400' rel='stylesheet' type='text/css'>
+<script src="js/jquery.min.js"></script>
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/bootstrap.css" />
+<link rel="stylesheet" href="css/new-style.css" />
+<link rel="stylesheet" href="css/animate.css" />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/style2.css" />
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+ 
+<!--<link href="style.css" rel="stylesheet">-->
+<link href="css/responsive.css" rel="stylesheet">
+<link href="rs-plugin/css/settings.css" rel="stylesheet">
+<link href="rs-plugin/css/captions.css" rel="stylesheet">
+ 
+<!--[if lt IE 9]>wh
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="header">
+<div class="top-header">
+<div class="container">
+<div class="row"> 
+<div class="col-lg-6 col-md-6 text-right top-header-right pull-right tank-top-header"> 
+<a href="contact.php">Contact Us</a>
+</div> 
+</div> 
+</div> 
+</div> 
+<div class="main-header">
+<div class="container logo-area">
+<div class="logo">
+<a href="index.html"><img src="images/logo.jpg" class="img-responsive" /></a>
+</div>
+<a href="donation-fund-raising.html"><div class="viewallbtn right donate dontate-link">Donate Now</div></a><span>&nbsp;</span><a href="http://tankerfoundation.org/crowdfund/">&nbsp;&nbsp;<div class="viewallbtn right donate dontate-link">Crowdfunding</div></a><span>&nbsp;</span>&nbsp;&nbsp;<div class="lis"><img id="myImg" src="images/gsn490--valid-till-dec-2020.png" alt="" width="240px" height="71px"style="padding-left: 97px;padding-bottom: 8px;" ><div id="myModal" class="modal"><span class="close">&times;</span><img class="modal-content" id="img01"><div id="caption"></div></div></div>&nbsp;&nbsp;<div><a href="bob2020.html"><img src="images/boblogo1.png" class="img-responsive " style="margin-left: 495px;margin-top:-84px;"/></a></div>
+
+ 
+</div> 
+
+<div id="full-menu" class="fullmenu style1">
+<div class="container">
+<div class="site-menu visible-lg visible-md" id="mainmenu">
+<div class="left-menu hide">
+<div class="left-menu-info">
+<form action="http://everislabs.com/templates/eross/post">
+<input type="text" placeholder="Type to search" name="s">
+<button><i class="fa fa-search"></i></button>
+</form>
+</div> 
+</div> 
+<nav>
+<div>
+<ul class="menu sf-menu list-unstyled clearfix">
+<li class="active">
+                 <a href="index.html"><i class="fa fa-home" style="height: 19px;padding: 4px;"></i></a>
+                </li>
+                    <li>
+                        <a href="about-us.html">About us </a>
+                         <ul>
+                        <li><a href="team.html">Our Team</a></li>
+                        <li><a href="doers.html">Our Doers</a></li>
+                        </ul>                        
+                    </li>
+                    <li>
+                        <a href="#"> Awareness & Screening</a>
+                        <ul>
+                        <li><a href="awareness.html">Awareness Activities</a></li>
+                        <li><a href="awareness.html#screening">Screening Activities</a></li>
+                        <li><a href="awareness.html#organ-donation">Encouraging Organ Donation</a></li>
+                        </ul> 
+                    </li>
+                    <li>
+                        <a href="#">TANKER Services</a>
+                        <ul>
+                        <li><a href="dialysis.html">Dialysis</a></li>
+                        <li><a href="fistula.html">Fistula Surgery</a></li>
+                        <li><a href="fistula.html#research">Research Grant</a></li>
+                        <li><a href="fistula.html#finance">Financial Support</a></li>
+                        <li><a href="internship.html">Internship & Training</a></li>
+                        <li><a href="tanker-and-covid.html">Tanker and Covid</a></li>
+                        </ul> 
+                    </li> 
+                    <li>
+                        <a href="videos.html">Videos</a>
+                    </li>
+                    <li>
+                        <a href="news-and-media.html">News</a>
+                    </li>
+                    
+    <li><a style="margin-left: -3px;" href="">Activities & Events </a>
+        <ul style="list-style:none;">
+            <li><a style="margin-left: 10px;;" href="fundraising-concert.html">Fundraising-Concerts</a></li>
+            <li><a style="margin-left: 10px;;" href="world-kidney-day-2019.html">World Kidney Day</a></li>
+            <li><a style="margin-left: 10px;;" href="joy-of-giving-week-2018.html">Joy of Giving Week</a></li>
+            <li><a style="margin-left: 10px;;" href="volunteer-at-tanker.html">Volunteering at TANKER</a></li>
+            <li><a style="margin-left: 10px;;" href="ifkf.html">18th IFKF Conference 2018</a></li>
+        </ul>
+	</li>
+    <li><a style="margin-left: -3px;" href="awards-and-lecturers.html">Awards & Lectures</a></li>
+    <li><a style="margin-left: -3px;" href="research-paper.html">Research Paper</a></li>
+   <li><a style="margin-left: -3px;" href="enablers.html">Our Enablers</a><ul>
+<li><a style="margin-left: -3px;" href="fcra-donation.html">FCRA Donation</a></li></ul></li>
+    <li><a style="margin-left: -1px;" href="regc.html">Recognition</a></li>
+   </ul>
+</div>
+</nav> 
+</div> 
+</div> 
+</div> 
+</div> 
+</header>
+<div class="space1"></div>
+<div class="rev_slider_wrapper fullscreen-container">
+<div id="rev_slider" class="rev_slider fullscreenbanner" style="display:none;">
+<ul>
+       <!-- <li data-transition="random" data-slotamount="7" data-masterspeed="300">
+ 
+<img src="images/demo/slide1_background.png" alt="slide1_background" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+ 
+ 
+<div class="tp-caption sfb dontate-link" data-x="85" data-y="0" data-speed="600" data-start="500" data-easing="easeOutBack" data-endspeed="300" style="z-index: 2">
+<a href="https://www.ketto.org/contribute/contribute.php?fmd_id=85980&utm_source=donor&utm_medium=whatsappShare&utm_campaign=&utm_content=888081" target='new' style="display:inline-block"><img src="images/demo/hellp.jpg" alt="hellp"></a>
+</div>
+
+</li>-->
+
+    <li data-transition="random" data-slotamount="7" data-masterspeed="300">
+ 
+<img src="images/demo/slide1_background.png" alt="slide1_background" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+ 
+ 
+<div class="tp-caption sfb dontate-link" data-x="85" data-y="0" data-speed="600" data-start="500" data-easing="easeOutBack" data-endspeed="300" style="z-index: 2">
+<a href="https://www.ifkf2018.org/" target='new' style="display:inline-block"><img src="images/demo/banner/ifkf2018.jpg" alt="IFKF2018"></a>
+</div>
+
+</li> 
+<li data-transition="random" data-slotamount="7" data-masterspeed="300">
+ 
+<img src="images/demo/slide1_background.png" alt="slide1_background" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+ 
+ 
+<div class="tp-caption sfb" data-x="85" data-y="0" data-speed="600" data-start="500" data-easing="easeOutBack" data-endspeed="300" style="z-index: 2">
+<a href="http://tankerfoundation.org/crowdfund/" target="new"><img src="images/demo/banner/crowdfund-banner.jpg" alt=""></a>
+</div>
+
+</li> 
+
+<li data-transition="random" data-slotamount="7" data-masterspeed="300">
+ 
+<img src="images/demo/slide1_background.png" alt="slide1_background" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+ 
+ 
+<div class="tp-caption sfb" data-x="85" data-y="0" data-speed="600" data-start="500" data-easing="easeOutBack" data-endspeed="300" style="z-index: 2">
+<img src="images/demo/banner/ambattur-dialysis-unit.jpg" alt="">
+</div>
+ 
+<!--<div class="tp-caption thin_blue randomrotate tp-resizeme" data-x="580" data-y="200" data-speed="600" data-start="800" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 3">
+Awesome. Minial. Clean
+</div>
+ 
+<div class="tp-caption medium_gray sfr tp-resizeme" data-x="580" data-y="240" data-speed="600" data-start="1100" data-easing="Power4.easeInOut" data-endspeed="300" style="z-index: 4">
+Mutiperpose & Powerful Template
+</div>
+ 
+<div class="tp-caption black_text sfb tp-resizeme" data-x="580" data-y="280" data-speed="400" data-start="1400" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 5">
+Creat unlimited unique layout with 100+ element build on <br/> Bootstrap + Font Awseome Icon.
+</div>
+ 
+<div class="tp-caption sfb tp-resizeme" data-x="580" data-y="340" data-speed="300" data-start="1700" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 6">
+<a href='javascript:alert("click");' class='tp-button green small'>Buy now</a>
+</div>-->
+</li>
+ 
+<li data-transition="random" data-slotamount="7" data-masterspeed="300">
+ 
+<img src="images/demo/slide1_background.png" alt="black_linen_v2" data-bgfit="normal" data-bgposition="center top" data-bgrepeat="repeat">
+ 
+ 
+<div class="tp-caption sfr" data-x="center" data-hoffset="10" data-y="0" data-voffset="0" data-speed="300" data-start="500" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 2">
+<img src="images/demo/banner/awareness.jpg" alt="">
+</div>
+ 
+ 
+<!--<div class="tp-caption g_font sft tp-resizeme" data-x="center" data-hoffset="0" data-y="45" data-speed="300" data-start="800" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 3">
+Unique & Modern Design
+</div>
+ 
+<div class="tp-caption g_font sfl tp-resizeme" data-x="233" data-y="133" data-speed="300" data-start="1400" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 4">
+Ultra Responsive
+</div>
+ 
+<div class="tp-caption g_font sfl tp-resizeme" data-x="181" data-y="235" data-speed="300" data-start="2000" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 5">
+Retina Display Ready
+</div>
+ 
+<div class="tp-caption g_font sfl tp-resizeme" data-x="199" data-y="361" data-speed="300" data-start="2600" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 6">
+Unique Layout Design
+</div>
+ 
+<div class="tp-caption g_font sfr tp-resizeme" data-x="743" data-y="131" data-speed="300" data-start="3200" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 7">
+100+ Elements
+</div>
+ 
+<div class="tp-caption g_font sfr tp-resizeme" data-x="785" data-y="237" data-speed="300" data-start="3800" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 8">
+Build on Bootstrap
+</div>
+ 
+<div class="tp-caption g_font sfr tp-resizeme" data-x="748" data-y="358" data-speed="300" data-start="4400" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 9">
+Awesome Fonts
+</div>
+ 
+<div class="tp-caption tp-fade" data-x="429" data-y="146" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 10">
+<img src="images/demo/slide_2_2.png" alt="">
+</div>
+ 
+<div class="tp-caption sfr" data-x="412" data-y="239" data-speed="300" data-start="1700" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 11">
+<img src="images/demo/slide_2_3.png" alt="">
+</div>
+ 
+<div class="tp-caption sfr" data-x="433" data-y="307" data-speed="300" data-start="2300" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 12">
+<img src="images/demo/slide_2_4.png" alt="">
+</div>
+ 
+<div class="tp-caption sfb" data-x="659" data-y="140" data-speed="300" data-start="2900" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 13">
+<img src="images/demo/slide_2_5.png" alt="">
+</div>
+ 
+<div class="tp-caption sfl" data-x="688" data-y="234" data-speed="300" data-start="3500" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 14">
+<img src="images/demo/slide_2_6.png" alt="">
+</div>
+ 
+<div class="tp-caption sfl" data-x="672" data-y="315" data-speed="300" data-start="4100" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 15">
+<img src="images/demo/slide_2_7.png" alt="">
+</div>-->
+</li>
+ 
+<li data-transition="random" data-slotamount="7" data-masterspeed="300">
+ 
+<img src="images/demo/slide_3.png" alt="slide_3" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+ 
+ 
+<div class="tp-caption randomrotate" data-x="85" data-y="0" data-speed="400" data-start="500" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 2">
+<img src="images/demo/banner/kovai-dialysis-unit.jpg" alt="">
+</div>
+ 
+<!--<div class="tp-caption thin_blue sft tp-resizeme" data-x="75" data-y="190" data-speed="300" data-start="900" data-easing="Power4.easeInOut" data-endspeed="300" style="z-index: 3">
+Open the box and ...
+</div>
+ 
+<div class="tp-caption small_thin_grey sfr tp-resizeme" data-x="75" data-y="230" data-speed="300" data-start="1100" data-easing="Sine.easeOut" data-endspeed="300" style="z-index: 4">
+Creat unique design layout within 10 minutes with many elements include.
+</div>
+ 
+<div class="tp-caption sfr tp-resizeme" data-x="75" data-y="300" data-speed="300" data-start="1400" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 5">
+<a href='javascript:alert("click");' class='tp-button blue small'>Download</a>
+</div>
+ 
+<div class="tp-caption sfl tp-resizeme" data-x="195" data-y="300" data-speed="300" data-start="1700" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 6">
+<a href='javascript:alert("click");' class='tp-button green small'>Features</a>
+</div>-->
+</li>
+<li data-transition="random" data-slotamount="7" data-masterspeed="300">
+ 
+<img src="images/demo/slide1_background.png" alt="slide1_background" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+ 
+ 
+<div class="tp-caption sfb" data-x="85" data-y="0" data-speed="600" data-start="500" data-easing="easeOutBack" data-endspeed="300" style="z-index: 2">
+<img src="images/demo/banner/madurai-dialysis-unit.jpg" alt="">
+</div>
+ 
+<!--<div class="tp-caption thin_blue randomrotate tp-resizeme" data-x="580" data-y="200" data-speed="600" data-start="800" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 3">
+Awesome. Minial. Clean
+</div>
+ 
+<div class="tp-caption medium_gray sfr tp-resizeme" data-x="580" data-y="240" data-speed="600" data-start="1100" data-easing="Power4.easeInOut" data-endspeed="300" style="z-index: 4">
+Mutiperpose & Powerful Template
+</div>
+ 
+<div class="tp-caption black_text sfb tp-resizeme" data-x="580" data-y="280" data-speed="400" data-start="1400" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 5">
+Creat unlimited unique layout with 100+ element build on <br/> Bootstrap + Font Awseome Icon.
+</div>
+ 
+<div class="tp-caption sfb tp-resizeme" data-x="580" data-y="340" data-speed="300" data-start="1700" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 6">
+<a href='javascript:alert("click");' class='tp-button green small'>Buy now</a>
+</div>-->
+</li>
+<li data-transition="random" data-slotamount="7" data-masterspeed="300">
+ 
+<img src="images/demo/slide1_background.png" alt="slide1_background" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+ 
+ 
+<div class="tp-caption sfb" data-x="85" data-y="0" data-speed="600" data-start="500" data-easing="easeOutBack" data-endspeed="300" style="z-index: 2">
+<img src="images/demo/banner/valluvar-kottam-dialysis-unit.jpg" alt="">
+</div>
+ 
+<!--<div class="tp-caption thin_blue randomrotate tp-resizeme" data-x="580" data-y="200" data-speed="600" data-start="800" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 3">
+Awesome. Minial. Clean
+</div>
+ 
+<div class="tp-caption medium_gray sfr tp-resizeme" data-x="580" data-y="240" data-speed="600" data-start="1100" data-easing="Power4.easeInOut" data-endspeed="300" style="z-index: 4">
+Mutiperpose & Powerful Template
+</div>
+ 
+<div class="tp-caption black_text sfb tp-resizeme" data-x="580" data-y="280" data-speed="400" data-start="1400" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 5">
+Creat unlimited unique layout with 100+ element build on <br/> Bootstrap + Font Awseome Icon.
+</div>
+ 
+<div class="tp-caption sfb tp-resizeme" data-x="580" data-y="340" data-speed="300" data-start="1700" data-easing="Power3.easeInOut" data-endspeed="300" style="z-index: 6">
+<a href='javascript:alert("click");' class='tp-button green small'>Buy now</a>
+</div>-->
+</li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+var revapi1;
+jQuery(document).ready(function() {
+
+  if (jQuery.fn.cssOriginal != undefined)
+    jQuery.fn.css = jQuery.fn.cssOriginal;
+
+  if(jQuery('#rev_slider').revolution == undefined)
+    revslider_showDoubleJqueryError('#rev_slider');
+  else
+    revapi1 = jQuery('#rev_slider').show().revolution(
+    {
+      delay:9000,
+      startwidth:1170,
+      startheight:450,
+      hideThumbs:200,
+
+      thumbWidth:100,
+      thumbHeight:50,
+      thumbAmount:3,
+
+      navigationType:"bullet",
+      navigationArrows:"solo",
+      navigationStyle:"round",
+
+      touchenabled:"on",
+      onHoverStop:"on",
+
+      navigationHAlign:"center",
+      navigationVAlign:"bottom",
+      navigationHOffset:0,
+      navigationVOffset:20,
+
+      soloArrowLeftHalign:"left",
+      soloArrowLeftValign:"center",
+      soloArrowLeftHOffset:328,
+      soloArrowLeftVOffset:0,
+
+      soloArrowRightHalign:"right",
+      soloArrowRightValign:"center",
+      soloArrowRightHOffset:300,
+      soloArrowRightVOffset:0,
+
+      shadow:0,
+      fullWidth:"on",
+      fullScreen:"off",
+
+      stopLoop:"off",
+      stopAfterLoops:-1,
+      stopAtSlide:-1,
+
+      shuffle:"off",
+
+      hideSliderAtLimit:0,
+      hideCaptionAtLimit:0,
+      hideAllCaptionAtLilmit:0,
+      startWithSlide:0,
+      videoJsPath:"js/revslider/js/videojs/",
+      fullScreenOffsetContainer: "" 
+    });
+
+}); //ready
+</script>
+ <div class="space3"></div>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-lg-4">
+<div class="heading-bar">
+<h2>Know Your Kidney</h2>
+</div>
+
+<a href="#"><img src="images/know-ur-kindney.jpg" class="img-responsive" /></a>
+        <div class="space2"></div>
+
+                <div class="space3"></div>
+                <div class="heading-bar">
+                <h2>Our Beneficiaries</h2>
+                </div>
+                
+               
+                <ul style="list-style:none;" class="news-events">
+                <li>
+                <div class="space1"></div>
+                <div class="row">
+                <div class="col-lg-3"><img class="img-circle img-responsive" src="images/beneficiery1.jpg" alt="" /></div>
+                <div class="col-lg-9">
+               <a style="text-decoration: none;" href="our-beneficiaries.html"> <p class="our-beneficiery-txt-h6">Mr. M. Gandhirajan</p></a>
+                </div>
+                
+                </div>
+                </li>
+                 <hr class="hr" />
+                <li>
+                <div class="row">
+                <div class="col-lg-3"><img class="img-circle img-responsive" src="images/beneficiery4.jpg" alt="" /></div>
+                <div class="col-lg-9">
+               <a style="text-decoration: none;" href="our-beneficiaries.html"><p class="our-beneficiery-txt-h6">Mrs. Susane</p></a>
+                </div>
+                
+                </div>
+                </li>
+                 <hr class="hr" />
+                <li>
+                <div class="space1"></div>
+                <div class="row">
+                <div class="col-lg-3"><img class="img-circle img-responsive" src="images/NancyVimal.jpg" alt="" /></div>
+                <div class="col-lg-9">
+               <a style="text-decoration: none;" href="our-beneficiaries.html"> <p class="our-beneficiery-txt-h6">Ms. M. Nancy Vimal</p></a>
+                </div>
+                
+                </div>
+                </li>
+                 <hr class="hr" />
+                <li>
+                <div class="space1"></div>
+                <div class="row">
+                <div class="col-lg-3"><img class="img-circle img-responsive" src="images/Suganya.jpg" alt="" /></div>
+                <div class="col-lg-9">
+               <a style="text-decoration: none;" href="our-beneficiaries.html"> <p class="our-beneficiery-txt-h6">Ms. P. Suganya</p></a>
+                 </div>
+                
+                </div>
+                </li>
+                 <hr class="hr" />
+                </ul>
+                <a href="our-beneficiaries.html"><div class="viewallbtn right">View All</div></a>
+                 
+                
+                <div class="space6"></div>
+
+</div>
+
+<div class="col-lg-8">
+<div class="heading-bar">
+<h2>TANKER</h2>
+</div>
+
+<div class="p">
+<!--<p class="m_-1327022960582219923gmail-MsoNoSpacing">We have completed <strong>26 years</strong> of service for the underprivileged with kidney ailments. With your help, we have meaningfully contributed to healthcare, research, training and advocacy connected to kidney disease. From June 1993 till <strong>June</strong> this year, TANKER has provided <strong>294,933 free and subsidized dialysis</strong> for <strong>1461 patients.</strong> We have also given financial support of <strong>Rs. 245 Lakhs to 3164 patients</strong> as one-time contributions ranging from Rs. 5,000/- to Rs. 50,000/- for transplantation, medication, investigation and fistula surgery costs.</p>
+<p class="m_-1327022960582219923gmail-MsoNoSpacing">&nbsp;</p>
+<p class="m_-1327022960582219923gmail-MsoNoSpacing">Our seven subsidized dialysis units have a total of <strong>105</strong> Dialysis Stations situated in Ambattur Rotary Hospital, <strong>Chennai,</strong> Chokkikulam, <strong>Madurai,</strong> RVS College of Nursing, Kannampalayam, <strong>Coimbatore,</strong> Corporation P.H.C, Nungambakkam along with RCME <strong>Chennai,</strong> in <strong>Thiruverkadu</strong> with RCMW <strong>Chennai,</strong> in <strong>Vellore</strong> with RCVF and in Corporation U. P. H. C, <strong>Retteri</strong> along with RCCT, Chennai.  We do <strong>4145</strong> dialyses per month, of which <strong>3999 are free of cost</strong> with valuable help from the <strong>Chief Ministers Comprehensive Health Insurance Scheme (CMCHIS) and other donors.</strong> At present, we help <strong>498 patients</strong> in our units. We also have a dialysis facility at <strong>PIMS, Pondicherry.</strong> In November 2009, we started our <strong>HIV Dialysis Unit</strong> providing dialysis to underprivileged <strong>HIV patients.</strong> This is the first of its kind in India.  We also support Kerala Kidney Research Foundation, which provides free and subsidized dialysis at Thiruvalla Medical Mission, SH Hospital, Kottayam and PVS Hospital, Kochi (Kerala). TANKER has set up a new unit in February 2016 in <strong>Imphal, Manipur</strong> along with Catholic Mission Centre Hospital with 4 machines and other equipment to the tune of Rs. 33 Lakhs.</p>
+<p class="m_-1327022960582219923gmail-MsoNoSpacing">&nbsp;</p>
+<p class="m_-1327022960582219923gmail-MsoNoSpacing">Almost 2.5 lakh people die of kidney failure in India every year. It is the third largest killer after malignancy and heart disease. Along with helping our patients, spreading the word about kidney disease is equally important to TANKER. We have reached out to more than <strong>1.76 lakh</strong> people with the <strong>1160 Awareness Programmes</strong> we conducted at schools, colleges, law enforcement offices and public forums. We have also screened <strong>32,013 individuals</strong> for early detection of kidney disease through our <strong>370 screening camps.</strong> As the field of research in kidney diseases requires more attention and guidance in India, TANKER also gives awards for research in Nephrology and Service to the tune of Rs. 7 lakhs every year.</p>-->
+
+<p>We have completed&nbsp;<strong>27 years</strong>&nbsp;of service for the underprivileged with kidney ailments. With your help, we have meaningfully contributed to healthcare, research, training and advocacy connected to kidney disease. From June 1993 till&nbsp;<strong>November 2020</strong>, TANKER has provided&nbsp;<strong>369,769 free and subsidized dialysis</strong>&nbsp;for&nbsp;<strong>1774 patients</strong>. We have also given financial support of&nbsp;<strong>Rs. 466 Lakhs to 3453 patients</strong>&nbsp;as one-time contributions ranging from Rs. 5,000/- to Rs. 50,000/- for transplantation, medication, investigation and fistula surgery costs.</p>
+<p>Our&nbsp;<strong>Eleven subsidized dialysis units</strong>&nbsp;have a total of&nbsp;<strong>157</strong>&nbsp;Dialysis Stations and are situated in 1. Ambattur Rotary Hospital,&nbsp;<strong>Chennai</strong>, 2. Arogya Trust, Chokkikulam,&nbsp;<strong>Madurai</strong>, 3. RVS College of Nursing, Kannampalayam,&nbsp;<strong>Coimbatore</strong>, 4. Corporation P.H.C, Nungambakkam, Chennai along with Rotary Club of Madras East, 5.&nbsp;<strong>Thiruverkadu, Chennai</strong>&nbsp;with Rotary Club of Madras West, 6.&nbsp;<strong>Vellore&nbsp;</strong>with Rotary Club of&nbsp; Vellore Fort 7. Corporation U. P. H. C,&nbsp;<strong>Retteri, Chennai</strong>&nbsp;along with Rotary Club of Chennai Towers, 8.&nbsp;<strong>Perungudi, Chennai</strong>&nbsp;with Corporation U.C.H.C and 9. Corporation U.C.H.C,&nbsp;<strong>Valasaravakkam, Chennai</strong>&nbsp;along with&nbsp;Rotary Club of Chennai Coastal, 10. Corporation U.C.H.C ,&nbsp;<strong>Injambakkam, Chennai</strong>&nbsp;along&nbsp;with Lodge Accountants Charitable Trust&nbsp;11.<strong>Tiruppur</strong>&nbsp;with Tiruppur North Rotary Club and Tiruppur Corporation.&nbsp;We provide<strong>&nbsp;5263&nbsp;</strong>dialyses per month, of which&nbsp;<strong>4995 are free of cost&nbsp;</strong>with valuable help from<strong>&nbsp;</strong>the<strong>&nbsp;Chief Ministers Comprehensive Health Insurance Scheme (CMCHIS), Greater Chennai Corporation and other valuable donors.&nbsp;</strong></p>
+<p>At present, we help&nbsp;<strong>605</strong>&nbsp;<strong>patients</strong>&nbsp;in our units. We also have a dialysis facility at&nbsp;<strong>PIMS, Pondicherry.&nbsp;</strong>In November 2009, we started our&nbsp;<strong>HIV Dialysis Unit</strong>&nbsp;providing dialysis to underprivileged&nbsp;<strong>HIV patients</strong>. This is the first of its kind in India.&nbsp;&nbsp;We also support&nbsp;<strong>Kerala Kidney Research Foundation (KKRF)</strong>, which provides free and subsidized dialysis at Thiruvalla Medical Mission, SH Hospital,&nbsp;<strong>Kottayam</strong>&nbsp;and PVS Hospital, Kochi. We have recently also donated 4 machines worth&nbsp;<strong>Rs. 24 Lakhs</strong>&nbsp;to KKRF.&nbsp; In February 2016, TANKER helped Catholic Mission Centre Hospital,&nbsp;<strong>Imphal, Manipur</strong>&nbsp;with 4 machines and equipment worth&nbsp;<strong>Rs. 33 Lakhs.</strong>&nbsp;TANKER along with The Madras Medical Mission has donated a machine to the Dar es salaam General Hospital in&nbsp;<strong>Tanzania</strong>.</p>
+<p>Almost 2.5 lakh people die of kidney failure in India every year. It is the third largest killer after malignancy and heart disease. Along with helping our patients, spreading the word about kidney disease is equally important to TANKER.&nbsp;We&nbsp;have reached out to more than&nbsp;<strong>1.89 lakh</strong>&nbsp;people with the&nbsp;<strong>1279 Awareness Programmes&nbsp;</strong>we conducted at schools, colleges, law enforcement offices and public forums. We have also screened&nbsp;<strong>35,554 individuals</strong>&nbsp;for early detection of kidney disease through our&nbsp;<strong>416 screening camps</strong>. As the field of research in kidney diseases requires more attention and guidance in India, TANKER also gives awards for research in Nephrology and Service to the tune of Rs. 8 lakhs every year.</p>
+<p><strong>We are continuing to do dialysis for all our patients through our 11 dialysis units. Our grateful thanks again for your continued support. Please keep our staff and patients in your prayers.</strong></p>
+</div>
+<div class="space4"></div>
+
+
+
+<div class="row">
+<div class="col-lg-12">
+
+<div class="featured-author">
+
+<h2 class="ambassodor-headings"  style="clear:both">Ambassador</h2>
+          <div class="left"> <span class="author-img-holder"><a href="about-us.html"><img src="images/image16.jpg" alt=""/></a></span>
+            <div class="author-det-box">
+              <div class="ico-holder">
+                <div id="socialicons" class="hidden-phone"> <a id="social_linkedin" class="social_active" href="#" title="Visit Google Plus page"><span></span></a> <a id="social_facebook" class="social_active" href="#" title="Visit Facebook page"><span></span></a> <a id="social_twitter" class="social_active" href="#" title="Visit Twitter page"><span></span></a> </div>
+              </div>
+              <div class="author-det"> 
+              
+              <!--<span class="title2">Mr. Khalid Hosseini</span>-->
+                <ul>
+<li><span>A recognisable face and a well-loved personality are an advantage when it comes to spreading a message. </span></li>
+<li><span>TANKER is grateful to Actor Suriya for accepting the role of our Goodwill Ambassador.</span></li>
+
+</ul>
+              
+              </div>
+            </div>
+          </div>
+          <div class="right">
+            <div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJcBwPdP6fM" frameborder="0" allowfullscreen></iframe>
+</div>
+          </div>
+        </div>
+</div>
+</div>
+
+
+
+<div class="space4"></div>
+
+<div class="heading-bar">
+<h2><strong>What's New</strong></h2>
+</div>
+<div id="carousel1">
+  <div class="btn-bar">
+    <div id="buttons"><a id="prev" href="#">Prev</a><a id="next" href="#">Next</a> </div>
+  </div>
+  <div id="slider">
+    <ul>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/whatsnew/a-sivagnanam.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">Courtesy call on TNHSP Project Director</h3>
+                        <p class="rcnt-pgm-rdmre"><a href="tnhsp.html">Read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/whatsnew/jc-dhivayadharshini.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">Meeting up with JC, Health</h3>
+                        <p class="rcnt-pgm-rdmre"><a href="jcd.html">Read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/whatsnew/vh1.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">Mr Vidyaakar of Udavum Karangal personally gave away grocery hampers to TANKER patients</h3>
+                        <p class="rcnt-pgm-rdmre"><a href="vidyakar-hamper.html">Read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/vellore-donation.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">Dr Vimal’s heartwarming gesture</h3>
+                        <p class="rcnt-pgm-rdmre"><a href="vellore-donation.html">Read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/donor-ramprasad.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">Our Managing Trustee with our enabler and donor Mr.Ramprasad.</h3>
+                        
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/patient-attentent-siva.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">Mr Siva, attendant of a patient undergoing dialysis at the Thiruverkadu TANKER Foundation unit, donated masks.</h3>
+                        
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/csv1.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">Covering street vendors<br> Managing Trustee and Head, Administration, handed over TANKER Foundation masks at Spur Tank Road</h3>
+                        <p class="rcnt-pgm-rdmre"><a href="covering-street.html">Read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/grihalakshmi.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">TANKER Foundation staff were presented the gifts by Mrs Grihalakshmi.</h3>
+                        <p class="rcnt-pgm-rdmre"><a href="grihalakshmi.html">Read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/vellore-fort-donation.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">Rotary gesture to Vellore unit</h3>
+                        <p class="rcnt-pgm-rdmre"><a href="vellore-fort.html">Read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/madurai-wheel.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">Running on smooth wheels</h3>
+                        <p class="rcnt-pgm-rdmre"><a href="madurai-wheel.html">Read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="images/dis-rehab-kit3.jpg" class="img-responsive" style="border-right: 1px solid grey;" />
+                </div>
+        
+                <div class="col-lg-6">
+                    <div class="quoteContainer">
+                        <h3 class="recent-pgm">Mr Vidyaakar’s Udavum Karangal distributed dry rations to patients at Thiruverkadu dialysis unit.</h3>
+                        <p class="rcnt-pgm-rdmre"><a href="dis-rehab-kit.html">Read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/dhivakar-vijayasarathy.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Donor Mr Divakar Vijayasarathy visited our admin office on 02nd september 2020.</h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/ckdusouth.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">TANKER Foundation supported platform for the study of CKDu South Asia Region for the first  time along with World Health Organization (WHO), Indian Council of Medical Research (ICMR)</h3>
+            <p class="rcnt-pgm-rdmre"><a href="ckdusouth.html">Read more</a></p>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/dr.mythili-zmo.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Handed over 5000 TANKER cloth masks to Dr. Mythili, Zonal Medical Officer, Zone 9, Teynampet on 21st July 2020.</h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/smita-naren.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Dr. Smita Naren, Director, Agarwal Eye Clinic also TANKER Donor visited our Admin office on 21st May 2020.</h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/lv-navaneeth.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Handed 500 masks and our mug to CEO of the " The Hindu" Mr. LV. Navaneeth. </h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/donated-mask-commissioner.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">TANKER DONATED 7500 MASKS TO THE COMMISSIONER</h3>
+            <p class="rcnt-pgm-rdmre"><a href="mask-donation.html">Read more</a></p>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/atulya-misra.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">TANKER Team met<br> Dr. Atulya Misra, IAS <br>Additional Chief Secretary to Government, Revenue and Disaster Management Department Tamilnadu Government on 13th March 2020 </h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/malayalee-coulcil.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Mr. K P A Latheef and his friend from World Malayalee Council visited our Admin Office on 06th March 2020.</h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/tamilnad-mercantile.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Tamilnad Mercantile Bank Staff visited our Admin Office on 05th March 2020 to make a donation of Rs. 6 Lakhs.</h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/rotary3231-2.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Best Dialysis Treatment & Prevention for the Underprivileged Award  by the Rotary Club of Vellore Fort during their Rotary 3231 meet in February, 2020.</h3>
+            <p class="rcnt-pgm-rdmre"><a href="rotary3231.html">Read more</a></p>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/dr.awoumou-belinga.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Tanker supported Nephropathologist Trainee Dr. Awoumou Belinga from Cameroon</h3>
+        </div>
+        </div>
+        </div>
+</li>
+       <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/bestngo1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">We’re honoured and grateful to have received the award for Best NGO in the Healthcare sector at the TANCARE conference arranged by the Govt of Tamil Nadu and FICCI.</h3>
+            <p class="rcnt-pgm-rdmre"><a href="bestngo.html">Read more</a></p>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/lakshmi-ammal.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Mrs. Lakshmi Ammal, Employee in TANKER Foundation for 21 Years.She is recognized and deeply appreciated for her selfless service with dedication & commitment</h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <!--<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/dr.dhandapani.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Rs. 6 Lakhs donation amount received from our Donor Mr. Dhandapani.</h3>
+        </div>
+        </div>
+        </div>
+</li>-->
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/inaugration1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Dialysis Machine Inauguration at Corporation of Chennai Diagnostic Center & TANKER Foundation Dialysis Unit on 5th October, 2019</h3>
+            <p class="rcnt-pgm-rdmre"><a href="dialysis-inaugration.html">Read more</a></p>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/mr.aditya-shwetha.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Our Donors Mr. Aditya, Mrs. Shwetha and Mrs. Latha Chandran with Our Managing Trustee Mrs. Latha Kumaraswami</h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/mr.goyal-daughter.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Our donor Mr. Goyal and his daughter visited our Admin Office on 7th December, 2019.</h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/thangum-vizhuthugal1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Thaangum Vizhuthugal and Lions Club jointly organised a Free Health Camp on 07th December 2019. Our Awareness and Prevention program Head Mrs. Rajalakshmi Ravi and team participated in the Camp (to be corrected in runner and the Read more section)</h3>
+            <p class="rcnt-pgm-rdmre"><a href="thangum-vizhuthugal.html">Read more</a></p>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/innerwheel.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+            <h3 class="recent-pgm">Innerwheel Club of Madurai City Donated Rs. 13,200/- to our Madurai Dialysis Unit for their Annual Meet on 07th December 2019 </h3>
+        </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-12">
+           <img src="images/christmas-smc-college.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+      </div>
+</li>   
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-12">
+           <img src="images/mrs.chaina-daughter.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+      </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/excellence-award1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">TANKER Madurai & Thiruverkadu Dialysis units were awarded  " Excellence Award for their performance in Healthcare Service Provider " </h3>
+<p class="rcnt-pgm-rdmre"><a href="excellence_award.html">Read more</a></p> 
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/mr.cherian.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">OUR DONOR- MR. CHRISTIE CHERIAN VISITED ADMIN OFFICE ON 4.12.19 TO MAKE DONATION</h3>
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/nitya-kalyani.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">OUR DONOR- MS. NITYA KALYANI VISITED ADMIN OFFICE ON 3.12.19</h3>
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/dr.thamizhisai.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Our Managing Trustee Mrs Latha Kumaraswami  visited  Dr. Thamizhisai Governor of Hyderabad on 15th October 2019.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/Aov1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Members of Rotary Club of Madras East  visited our Admin office on 27th August 2019 to make donation.</h3>
+<p class="rcnt-pgm-rdmre"><a href="aov.html">Read more</a></p> 
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/Walkathon7.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">PMJAY- CMCHIS
+Ayushman Bharat Pakhwara 2019 Awareness Walkathon on 21st September 2019.
+</h3>
+<p class="rcnt-pgm-rdmre"><a href="walkathon-2019.html">Read more</a></p> 
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/dr.jayakrishnan.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Dr. Jayakrishnan visited our Admin office on 12th September 2019.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/RetteriDU3.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">RRotary Club of Chennai Towers celebrated our Retteri Dialysis Unit's 1st year anniversary.</h3>
+<p class="rcnt-pgm-rdmre"><a href="retteridu.html">Read more</a></p> 
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/CMEprogramme2.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Dr. Hugh Brady Vice Chancellor, Bristol University, UK with Members of Pondicherry Institute of Medical Science, Pondicherry and TANKER Foundation. Dr. Brady came for the first CME Programme that TANKER had in 1993.</h3>
+<p class="rcnt-pgm-rdmre"><a href="cmeprogramme.html">Read more</a></p> 
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/25-years-of-service-1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">TANKER Celebrates 25 Years of Service, Honours Employees</h3>
+<p class="rcnt-pgm-rdmre"><a href="25-years-of-service.html">Read more</a></p> 
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/kidney-updates-2019.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">As we were conducted a Medical Education Programme at St. Gregory's Hospital in Parumala, Kerala on 04th August 2019.</h3>
+<p class="rcnt-pgm-rdmre"><a href="images/Invite.pdf">Read more</a></p> 
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/dronacharya.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Our Founder Trustee Dr. Georgi Abraham was awarded "Dronacharya Award"  by Avatar Foundation and Department of Nephrology- SGPGI, Lucknow on 21st July 2019.</h3>
+<p class="rcnt-pgm-rdmre"><a href="dronacharya.html">Read more</a></p> 
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/birthday-june2.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Our Donor Mr. S. Chandrasekaran visited our Admin office on 02nd June 2019 with his family to make donation on his daughter's Birthday.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/madurai-inaug3.png" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">INAUGURATION OF THE NEWLY EXPANDED “Madurai TANKER Subsidized Dialysis Unit ” on Tuesday 25th June 2019 at 2.00 p.m</h3>
+<p class="rcnt-pgm-rdmre"><a href="madurai-inauguration-2019.html">Read more</a></p> 
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/2b.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Dr. Suresh from M/s. Pavithra lab and Members of M/s. Masonic blood bank visited our Vellore unit on 24th June 2019 and distributed biscuits and snacks to all our Patients.</h3>
+<p class="rcnt-pgm-rdmre"><a href="masonic-blood-bank.html">Read more</a></p> 
+         </div>
+        </div>
+        </div>
+</li>
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/1d.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Our Advisory Member Mrs. Rajalakshmi Ravi distributed Rs. 1 Lakh to the families for the year 2019</h3>
+<p class="rcnt-pgm-rdmre"><a href="endowment-fund.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/new.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">WKD Strategy Meeting of IFKF and ISN Leaders in Budapest in June 2019.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+                 <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/IMG-20190522-WA0053.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">DGE Sridar Balaraman along with DGN RTN K Pandian with TANKER Foundation's Managing Trustee Mrs. Latha Kumaraswami had discussion for the expansion of 
+dialysis projects in our four revenue Districts of Rotary Distict 3231.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/whatsnew-0016.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Members of Rotary Club of Madras Pallava Mr. Rose and Mr. Robert visited our admin office on 19th April 2019 to meet Our Managing Trustee.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/whatsnew-0015.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Dr. Viswanathan CMO of General Hospital, Coonoor, Sister Polin and Mr. Jabaratnam of Kinder Trust and Members of TANKER Foundation.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/whatsnew-0010.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Deputy Commissioner Mr. P. Madhusudhan Reddy, I.A.S visited our Corporation U.P.H.C RCCT & TANKER Foundation dialysis Unit, Retteri on 11th April 2019.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+ <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/whatsnew-0014.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">TANKER has started conducting Kidney Disease Awareness Programmes in all Urban Primary Healthcare Centres (UPHC) in Chennai from 06th April onwards.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+
+  <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/whatsnew-0011.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Rotary Club of Tiruppur North and Members of TANKER Foundation.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/machine-donate-1.png" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Our donor Mr. Shekhar Parekh and Family from Mumbai visited our Valluvarkottam dialysis unit on 06th April 2019 and inaugurated the machine he donated.</h3>
+<p class="rcnt-pgm-rdmre"><a href="donated-machine.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+                 <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/visited-2b.png" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Capt. Aroop Banerjee,  M/s. PIL(India) Private Limited has donated Rs. 5 lakhs to TANKER Foundation on 11th March 2019.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+
+
+                 <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/visited-2a.png" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Mr. Kumar from M/s. Natesan Synchrocones Pvt Ltd visited our Admin Office to make donation.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/bank-staff-visited.png" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Tamilnad Mercantile Bank staff visited our Admin office to make donation.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-12">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="text-align:center"><span style="color:#000;margin-top:22px !important">TANKER' s New Admin Office Address:</span><br><br>
+Abiramee Apartments, Flat No. 11, 3rd Floor,<br>Old No. 6/11 & New No.11/11,<br> Thirumurthy Street, T.Nagar,<br> Chennai – 600 017, Tamilnadu, INDIA
+ </h3>
+         </div>
+        </div>
+        </div>
+</li>
+
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/wkd2019-17.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">This year the World Kidney Day, which is a joint program by the International Federation of Kidney Foundations (IFKF) and International Society of Nephrology (ISN) is focus on Kidney Health for Everyone Everywhere.  </h3>
+<p class="rcnt-pgm-rdmre"><a href="ifkf2019.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/gallery/singing1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Sing for TANKER Team Program at Thiruverkadu Unit on 12th January 2019</h3>
+<p class="rcnt-pgm-rdmre"><a href="singing-for-tanker.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/gallery/inaug-012.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">TANKER Foundation Donated 3 Haemodialysis Machines to Kerala Kidney Research Foundation</h3>
+
+         </div>
+        </div>
+        </div>
+</li>
+
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/gallery/conference-ifkf.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">THE 18TH IFKF CONFERENCE 2018 hosted by The International Federation of Kidney Foundations (IFKF) & Tamilnad Kidney Research (TANKER) Foundation At Hotel Savera, Chennai, India held on 10th, 11th, 12th December 2018</h3>
+<p class="rcnt-pgm-rdmre"><a href="conference-by-ifkf.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+         <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/gallery/IMG-20181025-WA0089.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Donor Mr. Krish & Mrs. Nina Panu</h3>
+<p class="rcnt-pgm-rdmre"><a href="krishanina.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+        <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+           <img src="images/gallery/IMG-20181024-WA0009.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+     
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Mrs. Latha Kumaraswami and Mrs. Sudha Rao with Dr. Shuvo Roy and Team in University of California San Francisco (UCSF) Lab.</h3>
+<p class="rcnt-pgm-rdmre"><a href="sanfhospital.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+ <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/gallery/mrsamrsrinivas.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">JOY OF GIVING WEEK CELEBRATIONS</h3>
+<p class="rcnt-pgm-rdmre"><a href="singers_visited_our_camp.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/gallery/dr-malavika.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Our donor Dr. Malavika visited the Admin Office to make a donation.</h3>
+         </div>
+        </div>
+        </div>
+</li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-12">
+      <a href="mwrt.html"><img src="images/gallery/mwrt1.jpg" class="img-responsive" style="border-right:1px solid grey"/></a>
+      </div>
+	  
+     
+        </div>
+</li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/gallery/free-retteri2.JPG" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">INAUGURATION OF FREE DIALYSIS UNIT AT RETERI,CHENNAI<br><br>JOINT PROJECT OF ROTARY CLUB OF CHENNAI TOWERS, GREATER CHENNAI CORPORATION AND TANKER FOUNDATION</h3>
+<p class="rcnt-pgm-rdmre"><a href="free-dialysis-at-retteri.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/csr-program-with-ioc3.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">CSR program along with Indian Oil Corporation from July 2018.</h3>
+<p class="rcnt-pgm-rdmre"><a href="csr-program-with-ico.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/vellore-anniversary1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">We have successfully completed the 1st year Anniversary of our TANKER Vellore Unit. Once again  Thank You All For Your Valuable Support .</h3>
+<p class="rcnt-pgm-rdmre"><a href="tanker-anniversary.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/visited-vdu3.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Our donor Mrs. Yasodha visited our Valluvarkottam Dialysis Unit on 07th July 2018 to make a donation.</h3>
+<p class="rcnt-pgm-rdmre"><a href="visited-valluvarkottam-dialysis-unit.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/inauguration_30062018_2.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">INAUGURATION OF FOUR HAEMODIALYSIS MACHINES FOR THE GREATER CORPORATION CHENNAI, RCME & TANKER DIALYSIS UNIT on 
+29th June 2018</h3>
+<p style="text-align:justify;padding-right: 35px;">TANKER is grateful to the following donors who have come forward to donate dialysis machines</p>
+<p class="rcnt-pgm-rdmre"><a href="inauguration-of-4-haemodialysis.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+</li>
+      
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/chakra-award-to-georgi-abraham/1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm"> Our Founder Trustee Dr. Georgi Abraham was awarded "Charaka Award " By Rotary Club of Guindy on 13th June 2018.</h3>
+
+<p class="rcnt-pgm-rdmre"><a href="chakra-award-to-georgi-abraham.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+      
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/unit-visit.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Dr. V. Balasubramaniam visited our Valluvar Kottam Dialysis Unit on 07th June 2018.</h3>
+         </div>
+        </div>
+        </div>
+      </li>
+      
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/fwdpatientschoolfeesdetailphotos/1.JPG" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Our Trustee Mr. S. V. Venkatesan distributed Rs. 1 Lakh to the families for the year 2018</h3>
+<p style="text-align:justify;padding-right: 35px;">Mrs. Malathi Venkatesan Endowment Fund for education for TANKER patient's children. Mr. S. V. Venkatesan distributed Rs. 1 Lakh to the families.</p>
+<p class="rcnt-pgm-rdmre"><a href="s-v-venkatesan-distributed-1lakh.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/rcme-7.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Rotary Club of Madras West's International Director Mr. Floyd Lancia and Ms. Betty visited our Thiruverkadu dialysis unit with Rotarians on 10th April 2018.</h3>
+<p class="rcnt-pgm-rdmre"><a href="rcme.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/rcme-member.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Rotary Club of Madras East (RCME)  Members Visited our Valluvarkottam Dialysis Unit on 10th Apr 2018.</h3>
+         </div>
+        </div>
+        </div>
+      </li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/kadir-from-easylink.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Mr. Kadir from Easylink visited our Admin office on 11th April 2018.</h3>
+         </div>
+        </div>
+        </div>
+      </li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/narayanan-saaraa-uppli-trust.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Mr. Narayanan From M/s. SAARAA UPPLI TRUST visited our TANKER Admin office to make donation.</h3>
+         </div>
+        </div>
+        </div>
+      </li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/donor-sripriya.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm">Our Managing Trustee Mrs. Latha Kumaraswami and Advisory Member<br> Ms. Lakshmi Rao met our donor Versatile Actress Mrs. Sripriya.</h3>
+         </div>
+        </div>
+        </div>
+      </li>
+
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/updated-music-sys-1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<p h3 class="recent-pgm">"Sing for TANKER" donated Audio Systems for TANKER Units at Ambattur, Thiruverkadu and Valluvarkottam and will be performing for our patients on a regular basis.</h3>
+<p class="rcnt-pgm-rdmre"><a href="update-music-system.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/rotary-pallava-dialysis-inaug-1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px">"Rotary Pallava dialysis machine inauguration"</h3>
+<p style="text-align:justify;padding-left:20px;padding-right: 35px;">Rotary Club of Pallava Donates dialysis machine to Ambattur Rotary hospital on 21st March 2018 </p>
+<p class="rcnt-pgm-rdmre"><a href="rotary-pallava-dialysis-machine-inauguration.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+
+
+
+      <li class="r_slide">
+        <div class="row">
+          <div class="col-lg-6">
+      <img src="images/donor-kamalhasan.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px">Our Managing Trustee Mrs. Latha Kumaraswami and Advisory Member Ms. Lakshmi Rao met our donor<br>Shri. Kamal Haasan.</h3>
+
+         </div>
+        </div>
+        </div>
+      </li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/mrcf.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px"> MRCP PACES UK Award to Dr. Georgi (The MRCP(UK) Part 2 Clinical Examination (Practical Assessment of Clinical Examination Skills - PACES) is designed to test the clinical knowledge and skills of trainee doctors who hope to enter higher specialist training (ST3).</h3>
+
+         </div>
+        </div>
+        </div>
+      </li>
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/tmb-staff.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px">Tamilnad Mercantile Bank staff visited our Admin office to make donation.</h3>
+
+         </div>
+        </div>
+        </div>
+      </li>
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/humans-of-chennai-students.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px">Humans of Chennai Founder Mr. Srinath and volunteer with our Founder Dr. Georgi Abraham.</h3>
+
+         </div>
+        </div>
+        </div>
+      </li>
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">f
+      <img src="images/womens-day-2018.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px">On this International Women's Day</h3>
+<p style="text-align:justify;padding-left:20px;padding-right: 35px;">our Prevention Program Head Mrs. Rajalakshmi Ravi was awarded "Woman of Mettle Award " By  Eastern's  Bhoomika -the iconic woman in your life.</p>
+         </div>
+        </div>
+        </div>
+      </li>
+
+
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/wkd-2018-1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px">World kidney Day (WKD 2018)</h3>
+<p class="rcnt-pgm-rdmre"><a href="wkd-2018.html">Read more</a></p>
+
+         </div>
+        </div>
+        </div>
+      </li>
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/bharat-visited.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px">Our Volunteer Mr. Bharat visited our Valluvar Kottam Dialysis Unit.</h3>
+
+         </div>
+        </div>
+        </div>
+      </li>
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/elizabeth-verghese-chairperson-donated.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px">Dr. Mrs. Elizabeth Verghese Chairperson, Hindustan Group of Institutions donated Rs. 6 lakhs to TANKER Foundation for their Founder's Dr. K. C. G. Verghese Memorial Day.</h3>
+
+         </div>
+        </div>
+        </div>
+      </li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/asha-swaminathan-sons-visit-1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px">Our Donor Mrs. Asha Swaminathan's Sons visited our Corporation Dialysis Unit at Valluvar Kottam.</h3>
+<p class="rcnt-pgm-rdmre"><a href="asha-swaminathan-sons-visit.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/img/awards-2018/awards-group-photo.png" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+<h3 class="recent-pgm" style="padding:0px 15px;margin-bottom:8px">Our 25th Annual Charity Awards</h3>
+<h5 style="padding: 0px 15px;text-align: justify;margin-bottom:8px">Our Chief Guest Mr T. T. Srinivasaraghavan, Managing director of M/s. Sundaram Finance presented the Awards.</h5>
+        <p style="padding: 0px 15px;text-align: justify;margin-bottom:8px">Our 25th Annual Charity Awards Nite was held on Thursday, 25th January 2018 at Hotel Savera, RK Salai, Chennai.</p>
+
+<p class="rcnt-pgm-rdmre"><a href="awards-and-lectures-2018.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	
+<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/sai-trust-6.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Sai trust's donations to TANKER dialysis patients.</h3>
+		<p style="text-align:justify;padding-right: 5px;">Sai Baba Is Still Alive Charitable Trust under the guidance of Srimati Jaya Wahi (author of the books Sai Baba Is Still Alive and 108 Pearls of Baba Sai) is committed to taking forward Baba’s wish of feed the hungry and clothe the poor to the maximum extent she can.</p>
+<p class="rcnt-pgm-rdmre"><a href="sai-trust-donation.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/nung-dialysis-1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <p  style="padding:20px;text-align:left">Our donor Mrs. Chitra Mr. Ramachandran and Mr Karthik visited our admin office to make donation and visited our Nungambakkam Dialysis Unit on 20th December 2017. </p>
+<p class="rcnt-pgm-rdmre"><a href="nung-dialysis.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	  
+	
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-12">
+      <A href="invites.html"><img src="images/DSC_2910-2.jpg" class="img-responsive" style="border-right:1px solid grey"/></a>
+      </div>
+	 
+        </div>
+      </li>
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/IMG-20171203-WA0003.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm" style="padding:18px">WIPRO Marathon</h3>
+		<p  style="padding:20px;text-align:left">Ms. Lakshmi Kumaraswami ran the 21 KM half Marathon in the TWCM (The Wipro Chennai Marathon ) held on 03rd December 2017.</p>
+<p class="rcnt-pgm-rdmre"><a href="wipro-marathon.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/pan-india-drive-1.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+	  
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm" style="padding:18px">Pan-India Drive</h3>
+		<p  style="padding:20px;text-align:left">Spreading Hope, a non-profit foundation and DaVita India collaborate to start a pan-India drive on kidney awareness and organ donation.</p>
+<p class="rcnt-pgm-rdmre"><a href="pan-india-drive.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/manoj-kumar-sonthalia.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Our donor<br>Mr. Manoj Kumar Sonthalia</h3><br>
+		<p  class="rcnt-pgm-cnt">Chairman and Managing Director<br>The New Indian Express<br>Visited our Ambattur Dialysis Unit on 17th October 2017.</p>
+         </div>
+        </div>
+        </div>
+      </li>
+	
+	<!-- <li class="r_slide"> -->
+      <!-- <div class="row"> -->
+      <!-- <div class="col-lg-12"> -->
+      <!-- <img src="images/diwali.jpg" class="img-responsive" style="border-right:1px solid grey"/> -->
+      <!-- </div> -->
+     
+        <!-- </div> -->
+      <!-- </li> -->
+	  
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-12">
+      <img src="images/mr-prasanna-visited.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+     
+        </div>
+      </li>
+	<li class="r_slide">
+      <div class="row">
+     
+      <div class="col-lg-12">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm" style="padding:18px">“The Renny Abraham TANKER Foundation LOVE FOR SERVICE Award” 2018</h3>
+		<p  style="padding:20px;text-align:left">TANKER Foundation invites nominations for our annual award for the most outstanding Medical Doctor in India who has gone beyond the call of duty in rendering service to the underprivileged.</p>
+<p class="rcnt-pgm-rdmre"><a href="love-fore-service-award-2018.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	<!-- <li class="r_slide"> -->
+      <!-- <div class="row"> -->
+      <!-- <div class="col-lg-12"> -->
+      <!-- <img src="images/chennai-seva-mela.jpg" class="img-responsive" style="border-right:1px solid grey"/> -->
+      <!-- </div> -->
+     
+        <!-- </div> -->
+      <!-- </li> -->
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/thursday-ladies-donation.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Thursday Ladies Club donated Rs. 25,000/- for their Annual Carnival held on 10th Sep 2017.</h3>
+
+         </div>
+        </div>
+        </div>
+      </li>
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/stella-marris-student-visit.jpg" class="img-responsive" style="border-right:1px solid grey"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Stella Maris students visiting our unit Aug 2017</h3>
+
+         </div>
+        </div>
+        </div>
+      </li>
+	  
+	<!-- <li class="r_slide"> -->
+      <!-- <div class="row"> -->
+      <!-- <div class="col-lg-6"> -->
+      <!-- <img src="images/daan-utsav-1.jpg" class="img-responsive" style="border-right:1px solid grey"/> -->
+      <!-- </div> -->
+      <!-- <div class="col-lg-6"> -->
+        <!-- <div class="quoteContainer"> -->
+        <!-- <h3 class="recent-pgm">DAAN UTSAV</h3><br><p  class="rcnt-pgm-cnt">DaanUtsav (formerly the Joy of Giving Week) is a 100% volunteer driven initiative, which encourages people to do any act of giving of their choice</p> -->
+		
+<!-- <p class="rcnt-pgm-rdmre"><a href="daan-utsav.html">Read more</a></p> -->
+         <!-- </div> -->
+        <!-- </div> -->
+        <!-- </div> -->
+      <!-- </li> -->
+	  
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/sudha-singing1.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Our Advisory Member Ms. Sudha Singing in our Coimbatore Dialysis Unit</h3>
+		
+<p class="rcnt-pgm-rdmre"><a href="sudha-singing.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	  
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/sudha-rao-sung2.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Our Advisory Member Mrs. Sudha Rao Sung for our patients on 11th July at our TANKER Ambattur Rotary Dialysis Unit in 2 sessions from 10.30 am.</h3>
+		
+<p class="rcnt-pgm-rdmre"><a href="sudha-rao-sang-trip.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	  
+    <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/inauguration_haemodialysis_machine2.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm"> INAUGURATION OF FOUR HAEMODIALYSIS MACHINES FOR THE GREATER
+CORPORATION CHENNAI, RCME & TANKER DIALYSIS UNIT</h3>
+		
+<p class="rcnt-pgm-rdmre"><a href="inauguration_haemodialysis_machine.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/isu-at-vellore-1.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">INAUGURATION OF SUBSIDISED DIALYSIS UNIT AT VELLORE JOINT PROJECT OF ROTARY CLUB OF VELLORE FORT AND TANKER FOUNDATION</h3>
+		
+<p class="rcnt-pgm-rdmre"><a href="isu-at-vellore.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/shankar-swamy-and-asha-swamy-visit.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Our donor Mr. Shankar Swamy & Mrs. Asha Swamy visited our Greater
+			Corporation of Chennai, RCME & TANKER Foundation Dialysis Unit.</h3>
+		<br>
+<p class="rcnt-pgm-rdmre"><a href="shankar-swamy-and-asha-swamy-visit.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	  
+    <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/subsidised-dialysis-opening.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">INAUGURATION OF SUBSIDISED DIALYSIS UNIT AT THIRUVERKADU, CHENNAI</h3>
+<br><br><br><p class="rcnt-pgm-rdmre"><a href="subsidised-dialysis-unit.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	  
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/donors.JPG" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Our donor Mrs. Nirmala Sharma visited our Admin Office to make a donation.</h3>
+<p class="rcnt-pgm-rdmre"><a href="35th-annual-congress.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/img9.png" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">35th Annual Congress of the Egyptian Society of Nephrology & Transplantation 2017 Meeting - Cairo (28th February - 3rd March)</h3>
+<p class="rcnt-pgm-rdmre"><a href="35th-annual-congress.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+    <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/img8.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">35th Annual Congress of the Egyptian  Society of Nephrology & Transplantation 2017 Meeting - Cairo
+(28th February - 3rd March)</h3>
+<p class="rcnt-pgm-rdmre"><a href="35th-annual-congress.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+    <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/24th-annual-charity.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">24th TANKER Annual Charity and Awards Nite 2017</h3>
+        <p class="rcnt-pgm-cnt">Our 24th Annual Charity and Awards Nite was held on Wednesday, 25th January 2017 at 5.45 pm at Hotel Savera, RK Salai, Chennai.For the past Eight years we have used this special night as a platform to recognise</p>
+<p class="rcnt-pgm-rdmre"><a href="24th-annual.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+    <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-12">
+      <img src="images/srilankan-award.jpg" class="img-responsive"/>
+      </div>
+      
+        </div>
+      </li>
+    <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/inaugration-thumbnail.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Inauguration</h3>
+        <p class="rcnt-pgm-cnt"><strong>Inauguration of the new expanded Greater Chennai Corporation Rotary Club of Madras East & TANKER Foundation Dialysis Unit by Sri R.S.Suriya,TANKER's Goodwill Ambassador</strong></p>
+        <p class="rcnt-pgm-cnt">On monday 19th December, The Greater Chennai Corporation, Rotary Club of Madras...</p>
+<p class="rcnt-pgm-rdmre"><a href="inauguration.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+	<!-- <li class="r_slide">
+      <div class="row">
+     <div class="col-lg-12">
+        <div class="quoteContainer" style="padding:10px;">
+        <h3 class="recent-pgm">GIFT A FREE DIALYSIS TO THE NEEDY THROUGH DECEMBER</h3>
+        <p class="rcnt-pgm-cnt"><strong>Every 5 reviews on Medadvisor.in sponsors a free dialysis at Tanker Foundation</strong></p>
+        <p class="rcnt-pgm-cnt"><strong>Medadvisor.in</strong> jointly with <strong>TANKER Foundation</strong> is running a unique 'review and save life' initiative through December 2016. For every 5 reviews posted on the <strong>Medadvisor.in</strong>  site, one economically challenged patient would get a free dialysis at the Tanker Foundation centres in Chennai. This initiative of Medadvisor India P Ltd coincides with their recent Chennai launch and is aimed at saving lives of those in desperate need of dialysis but cannot afford the same.</p>
+<p class="rcnt-pgm-rdmre"><a href="dialysis-review.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+	</li>-->
+    <!-- <li class="r_slide"> -->
+      <!-- <div class="row"> -->
+      <!-- <div class="col-lg-6"> -->
+      <!-- <img src="images/recent-dhaan-utsav.jpg" class="img-responsive"/> -->
+      <!-- </div> -->
+      <!-- <div class="col-lg-6"> -->
+        <!-- <div class="quoteContainer"> -->
+        <!-- <h3 class="recent-pgm">DAAT UTSAV CELEBRATIONS</h3> -->
+        <!-- <p class="rcnt-pgm-cnt">We put up awareness stalls at Indian Oil Corporation Petrol Station and Aavin Parlours in Chennai between 1st October to 7th October 2016. 7000 people were given leaflets.</p> -->
+<!-- <p class="rcnt-pgm-rdmre"><a href="joy-of-giving-week-2016.html">Read more</a></p> -->
+         <!-- </div> -->
+        <!-- </div> -->
+        <!-- </div> -->
+      <!-- </li> -->
+      
+    <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/recent-pgm-poorest-kidney-patient.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Treating the poorest kidney patient in the world</h3>
+        <p class="rcnt-pgm-cnt">ISN Fellow Sudakshina Ghosh from Tanzania trained at the Madras Medical Mission and got involved with India’s TANKER Foundation, which helps the country’s poorest kidney patients.</p>
+<p class="rcnt-pgm-rdmre"><a href="joy-of-giving-week-2016.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+      
+    <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/recent-prgm-fistula.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">AV Graft Fistula</h3>
+        <p class="rcnt-pgm-cnt">Mr. Jayaram currently a patient of CKD is just 14 years and is a student of class 10. His father deserted him after knowing his condition. He is being looked after by mother who is domestic help earning around Rs 4,000 per month. Occasionally he gets support from his friends and relatives. </p>
+<p class="rcnt-pgm-rdmre"><a href="fistula.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+    <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/recent-program3.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">TANKER Awareness and Prevention Center on Every Weekdays</h3>
+        <p class="rcnt-pgm-cnt">TANKER Foundation in coordination with Rotary Club of Ambattur is conducting an exclusive clinic on every weekdays from 10 PM to 3 PM at Ambattur Rotary Hospital.</p>
+<p class="rcnt-pgm-rdmre"><a href="weekend-awareness.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+    <li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/vengateshan-distribute.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Mr. S. V. Venkatesan distributed Rs. 1 Lakh to the families</h3>
+        <p class="rcnt-pgm-cnt">Mrs. MalathiVenkatesan Endowment Fund for education for TANKER patients children. Mr. S. V. Venkatesan distributed Rs. 1 Lakh to the families. </p>
+<!--<p class="rcnt-pgm-rdmre"><a href="regc.html">Read more</a></p>-->
+         </div>
+        </div>
+        </div>
+      </li>
+    <!--<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/manipu-dialysis--3.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Manipur Dialysis Unit Inauguration</h3>
+        <p class="rcnt-pgm-cnt">Dr. Georgi Abraham MD. FRCP Nephrologist, Founder Trustee TANKER Foundation was on a visit to Manipur for a scientific lecture on CKD patients and the impact of Haemodialysis and their livelihood. </p>
+<p class="rcnt-pgm-rdmre"><a href="regc.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+	</li>-->
+    <!--<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <div class="quoteContainer">
+       <p class="rcnt-pgm-cnt">Manipur Dialysis Unit should be inaugurated in December with 4 machines donated by MRF, Mr. Kochouseph Chittilappilly, Mrs. Sudha Lakshmi Rao, Mrs. Kamala Krishnaswamy and other valuable donors.</p>
+      </div></div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">CMCHIS Accreditation</h3>
+        <p class="rcnt-pgm-cnt">TANKER Accreditation in CMCHIS Coimbatore. TANKER already has accreditation in Ambattur and Madurai.Grateful thanks to the CMCHIS.</p>
+         </div>
+        </div>
+        </div>
+      </li>-->
+       
+      <!--<li class="r_slide">
+      <div class="row">
+      <div class="col-lg-6">
+      <img src="images/recent-program.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Endowment Oration</h3>
+        <p class="rcnt-pgm-cnt">On 10th March 2015 TANKER Foundation organized the 3rd Smt. Lakshmi Venkataraman Endowment Oration to raise awareness about Organ and Cadaver Donation as a part of World Kidney Day. Fr. Paul Vattakuzhy, the Managing Director of Paulo Foundations – Kidney Patient’s Welfare Association</p>
+<p class="rcnt-pgm-rdmre"><a href="world-kidney-day-2015.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>-->
+      <li class="r_slide">
+        <div class="row">
+      <div class="col-lg-6">
+      <img src="images/recent-program2.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">Non Medical Professional Award </h3>
+        <p class="rcnt-pgm-cnt">Mrs Padma-Head of TANKER Dialysis units was awarded the Non Medical Prefessional award in Madurai on 6th July 2014.She heads all 4 dialysis units of TANKER</p>
+<p class="rcnt-pgm-rdmre"><a href="regc.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+      <li class="r_slide">
+       <div class="row">
+      <div class="col-lg-6">
+      <img src="images/recent-program1.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-lg-6">
+        <div class="quoteContainer">
+        <h3 class="recent-pgm">The Shanmukhananda Healthcare Ruby Awards </h3>
+        <p class="rcnt-pgm-cnt">Sri Shanmukhananda Fine Arts & Sangeetha Sabha, Mumbai has over the past six decades played a unique role in the national integration and cultural synthesis of India. The sabha is the only institution in the country and possibly in the world that combines Fine Arts and Health care. </p>
+<p class="rcnt-pgm-rdmre"><a href="regc.html">Read more</a></p>
+         </div>
+        </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+<br>
+<p><a href="images/download/02TANKER-Newsletter-March-2020-print.pdf" class="download-btn">TANKER FOUNDATION NEWSLETTER<i class="fa fa-download"></i></a></p>
+
+</div>
+</div>
+</div>
+</section>
+
+<div class="space3"></div>
+<footer id="footer" class="content-footer-box2">
+<div id="footer-3">
+<div class="container" style="padding-top: 20px; padding-bottom:20px;">
+
+<div class="widget col-lg-3 col-md-3 bottom-30-sm bottom-30-xs">
+<div class="widget-title-footer">
+<h5><a href="http://tankerfoundation.org/">Home</a></h5>
+</div>
+<div class="widget-title-footer">
+<h5><a href="about-us.html">About Us</a></h5>
+</div> 
+<ul class="list-unstyled icon-list" style="padding-top:10px;">
+<li><a href="team.html"><i class="fa fa-angle-right"></i>Our Team</a></li>
+<li><a href="annual-report.html"><i class="fa fa-angle-right"></i>Annual Report</a></li>
+</ul>
+<div class="widget-title-footer">
+<h5>Awarness & Screening</h5>
+</div> 
+<ul class="list-unstyled icon-list" style="padding-top:10px;">
+<li><a href="awareness.html"><i class="fa fa-angle-right"></i>Awareness Activities</a></li>
+<li><a href="awareness.html#screening"><i class="fa fa-angle-right"></i>Screening Activities</a></li>
+<li><a href="awareness.html#encourage"><i class="fa fa-angle-right"></i>Encouraging Organ Donation</a></li>
+</ul> 
+</div>
+<div class="widget col-lg-3 col-md-3 bottom-30-sm bottom-30-xs">
+
+<div class="widget-title-footer">
+
+<h5>Tanker Services</h5>
+</div>
+<ul class="list-unstyled icon-list" style="padding-top:10px;">
+<li><a href="dialysis.html"><i class="fa fa-angle-right"></i>Dialysis</a></li>
+<li><a href="fistula.html#fistula"><i class="fa fa-angle-right"></i>Fistula Surgery</a></li>
+<li><a href="fistula.html#research"><i class="fa fa-angle-right"></i>Research Grant</a></li>
+<li><a href="fistula.html#financial-sup"><i class="fa fa-angle-right"></i>Financial Support</a></li>
+<li><a href="fistula.html#internship"><i class="fa fa-angle-right"></i>Internship and Training </a></li>
+</ul>
+
+
+
+<div class="widget-title-footer">
+<h5><a href="videos.html">Videos</a></h5>
+</div>
+
+<div class="widget-title-footer">
+<h5><a href="news-and-media.html">NEWS</a></h5>
+</div>  
+  
+
+</div>
+<div class="widget col-lg-3 col-md-3 bottom-30-sm bottom-30-xs">
+<div class="widget-title-footer">
+<h5>Activities & Events</h5>
+</div> 
+<ul class="list-unstyled icon-list" style="padding-top:10px;">
+<li><a href="world-kidney-day-2015.html"><i class="fa fa-angle-right"></i>World Kidney Day</a></li>
+<li><a href="joy-of-giving-week-2016.html"><i class="fa fa-angle-right"></i>Joy of giving week</a></li>
+<li><a href="volunteer-at-tanker.html"><i class="fa fa-angle-right"></i>Volunteering at TANKER</a></li>
+</ul> 
+<div class="widget-title-footer">
+<h5><a href="awards-and-lecturers.html">AWARDS & LECTURES</a></h5>
+</div> 
+<div class="widget-title-footer">
+<h5><a href="enablers.html">OUR ENABLERS</a></h5>
+</div> 
+<div class="widget-title-footer">
+<h5><a href="regc.html">RECOGNITION</a></li></h5>
+</div> 
+
+</div>
+<div class="widget col-lg-3 col-md-3 bottom-30-sm bottom-30-xs">
+<div class="widget-title-footer" style="padding-bottom:10px;">
+<h5>Contact Us</h5>
+</div> 
+<address>Abiramee Apartments Flat.No 11,<br>3rd Floor, Old No.6 & New No.11<br>Thirumurthy Street, T. Nagar,<br>Chennai - 600017</address>
+<p>+91 - 044 - 28341635</p>
+<p>+91 - 044 - 43090998</p>
+
+<p>info@tankerfoundation.org</p>
+</div>
+</div> 
+</div> 
+ 
+<div class="footer-box footer-box-content">All contents copyright © TANKER Foundation - 2010 All rights reserved</div>
+</footer> 
+ 
+<script src="js/slider.js"></script>	
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
+<script src="js/superfish.js"></script>
+<script src="js/functions.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+<script src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+ 
+<!--<script src="js/demo.js"></script>-->
+ 
+
+  <script type="text/javascript">
+ $(window).load(function() {
+
+$("a").each( function() {
+
+console.log( $(this).attr('href')+"==link");
+   $(this).on("touchstart", function(event) {
+
+window.location.href = $(this).attr('href');    });
+});
+});
+
+
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById("myImg");
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+  modal.style.display = "none";
+}
+</script>
+</body>
+</html>
